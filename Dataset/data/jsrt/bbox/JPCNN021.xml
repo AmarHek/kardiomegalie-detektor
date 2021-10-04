@@ -1,0 +1,55 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>JPCNN021.png</filename>
+    <path>C:\Users\Nils\Documents\Uni\Semester06\Bachelorarbeit\Data\Datasets\jsrt\images\JPCNN021.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2048</width>
+        <height>2048</height>
+        <depth>1</depth>
+    </size>
+    <segmented>0</segmented>
+    
+    <object>
+        <name>left_lung</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>302</xmin>
+            <ymin>180</ymin>
+            <xmax>894</xmax>
+            <ymax>1736</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>right_lung</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1090</xmin>
+            <ymin>190</ymin>
+            <xmax>1746</xmax>
+            <ymax>1480</ymax>
+        </bndbox>
+    </object>
+
+    <object>
+        <name>heart</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>840</xmin>
+            <ymin>904</ymin>
+            <xmax>1496</xmax>
+            <ymax>1490</ymax>
+        </bndbox>
+    </object>
+
+</annotation>
+    

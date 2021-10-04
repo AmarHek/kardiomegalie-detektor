@@ -1,0 +1,55 @@
+
+<annotation>
+    <folder>kardiomegaliegruppe</folder>
+    <filename>0P10070650512000.png</filename>
+    <path>C:\Users\Nils\Documents\Uni\Semester06\Bachelorarbeit\KardiomegalieDetektion-BA\Dataset\data\ukw\images\kardiomegaliegruppe\0P10070650512000.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4200</width>
+        <height>3408</height>
+        <depth>1</depth>
+    </size>
+    <segmented>0</segmented>
+    
+    <object>
+        <name>left_lung</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>462</xmin>
+            <ymin>0</ymin>
+            <xmax>1791</xmax>
+            <ymax>2122</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>right_lung</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2055</xmin>
+            <ymin>22</ymin>
+            <xmax>3044</xmax>
+            <ymax>2161</ymax>
+        </bndbox>
+    </object>
+
+    <object>
+        <name>heart</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1344</xmin>
+            <ymin>832</ymin>
+            <xmax>2966</xmax>
+            <ymax>2107</ymax>
+        </bndbox>
+    </object>
+
+</annotation>
+    

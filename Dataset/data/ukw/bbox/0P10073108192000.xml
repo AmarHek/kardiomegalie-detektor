@@ -1,0 +1,55 @@
+
+<annotation>
+    <folder>normgruppe</folder>
+    <filename>0P10073108192000.png</filename>
+    <path>C:\Users\Nils\Documents\Uni\Semester06\Bachelorarbeit\KardiomegalieDetektion-BA\Dataset\data\ukw\images\normgruppe\0P10073108192000.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2426</width>
+        <height>2709</height>
+        <depth>1</depth>
+    </size>
+    <segmented>0</segmented>
+    
+    <object>
+        <name>left_lung</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>128</xmin>
+            <ymin>269</ymin>
+            <xmax>1168</xmax>
+            <ymax>1921</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>right_lung</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1448</xmin>
+            <ymin>249</ymin>
+            <xmax>2331</xmax>
+            <ymax>2106</ymax>
+        </bndbox>
+    </object>
+
+    <object>
+        <name>heart</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>871</xmin>
+            <ymin>1058</ymin>
+            <xmax>2013</xmax>
+            <ymax>2109</ymax>
+        </bndbox>
+    </object>
+
+</annotation>
+    
